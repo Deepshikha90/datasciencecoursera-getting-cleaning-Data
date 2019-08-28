@@ -1,4 +1,5 @@
-Peer-graded Assignment: Getting and Cleaning Data Course Project
+Peer-graded Assignment : Getting and Cleaning Data Course Project
+
 Dataset - Human Activity Recognition Using Smartphones
 
 Files
